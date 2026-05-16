@@ -6,19 +6,21 @@
 **Android Engineer** · Kotlin · Jetpack Compose · System-level APIs · Clean Architecture · On-device ML
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gayathrikolliportfolio.netlify.app-4A90E2?style=flat-square&logo=google-chrome&logoColor=white)](https://gayathrikolliportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gayathri--kolli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-kolli-45666a3ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gayathri--k-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-k-45666a3ab/)
 [![Medium](https://img.shields.io/badge/Medium-@gayathrikolli1905-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gayathrikolli1905)
 [![Email](https://img.shields.io/badge/Email-gayathrikolli1905%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gayathrikolli1905@gmail.com)
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Android%20Engineer-22C55E?style=flat-square)
 
 </div>
 
 ---
 
-I build Android apps that ship to real users — from health tech to fintech to on-device ML. Previously at **Willow Laboratories** on [Nutu Wellness](https://play.google.com/store/apps/details?id=com.willow.nutu&hl=en_US), a health app with **40K+ active users**. I care about offline-first architecture, testable code, and getting the details right.
+I build Android apps that ship to real users. Health tech, fintech, on-device ML. Previously at **Willow Laboratories** on [Nutu Wellness](https://play.google.com/store/apps/details?id=com.willow.nutu&hl=en_US), a health app with **40K+ active users**. I care about offline-first architecture, testable code, and getting the details right.
 
 - 🏗️ Building production Android with **Jetpack Compose, Room, Coroutines, Hilt, KMP**
-- 🔧 Comfortable at the system level — **LauncherApps, AppWidgetHost, ShortcutManager, HOME intent**
-- 🤖 Interested in **on-device ML** — TFLite, MobileNet, real-time image analysis
+- 🔧 Comfortable at the system level: **LauncherApps, AppWidgetHost, ShortcutManager, HOME intent**
+- 🤖 Interested in **on-device ML**: TFLite, MobileNet, real-time image analysis
 - 🧪 Strong believer in unit tests that actually catch bugs, not just inflate coverage
 - 🎓 M.S. Computer Science, University of Central Oklahoma (GPA 3.89)
 
@@ -76,7 +78,7 @@ Cross-platform  Kotlin Multiplatform (KMP)
 
 ## What I'm currently exploring
 
-Kotlin Multiplatform for sharing business logic across Android and iOS without sacrificing native feel. Also going deeper into on-device ML pipelines — inference, quantisation, and keeping it fast on mid-range hardware.
+Kotlin Multiplatform for sharing business logic across Android and iOS without sacrificing native feel. Also going deeper into on-device ML pipelines: inference, quantisation, and keeping it fast on mid-range hardware.
 
 ---
 
